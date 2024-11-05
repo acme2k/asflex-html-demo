@@ -1,0 +1,41 @@
+h3 {
+  color: #555555 !important;
+}
+
+h2 {
+  color: cadetblue;
+}
+
+.headings {
+  color: orchid;
+}
+
+.big-headings {
+  font-size: 3em;
+}
+
+#main-heading {
+  color: darkkhaki;
+}
+
+#secondary-heading {
+  color: orangered;
+}
+
+nav {
+  background-color: #555555;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+  position: absolute;
+  top: 0;
+}
+
+.outer-div {
+  position: relative;
+  background-color: #f0f0f0;
+  border: 10px solid #555555;
+  padding: 40px;
+  margin: 160px 20px 20px;
+}
